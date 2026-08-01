@@ -1,0 +1,7 @@
+github.com/GoScouter/sdk v1.0.9 h1:3Dy2l6/oMkdD01TtW2ZOgg7S7iOQFXW2bEIg2AoToZM=
+github.com/GoScouter/sdk v1.0.9/go.mod h1:MvG1fWNCbXBz7rXjZA2JMD0KyNOiWJJFrb9ti3b9H8U=
+github.com/GoScouter/sdk v1.0.10 h1:WolfTIWbAsJTeADp+otBWtcPkDM0RCL8NCfsmbA8C8w=
+github.com/GoScouter/sdk v1.0.10/go.mod h1:MvG1fWNCbXBz7rXjZA2JMD0KyNOiWJJFrb9ti3b9H8U=
+github.com/GoScouter/sdk v1.2.0/go.mod h1:MvG1fWNCbXBz7rXjZA2JMD0KyNOiWJJFrb9ti3b9H8U=
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
