@@ -1,0 +1,14 @@
+{
+  "name": "NAME",
+  "latest": "VERSION",
+  "versions": {
+    "VERSION": {
+      "artifacts": {
+        "os-arch": {
+          "url": "",
+          "checksum": ""
+        }
+      }
+    }
+  }
+}
