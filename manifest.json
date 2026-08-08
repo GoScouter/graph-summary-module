@@ -5,8 +5,8 @@
     "v1.0.0": {
       "artifacts": {
         "linux-amd64": {
-          "url": "https://github.com/GoScouter/graph-summary-module/releases/download/v1.0.0/gs-nginx-module-amd64-linux",
-          "checksum": "b7caa991fb58fd9450c7a0e5d68254427250253d113e1c3f29d46dc3d8bc4e92"
+          "url": "https://github.com/GoScouter/graph-summary-module/releases/download/v1.0.1/sgs-module-amd64-linux",
+          "checksum": "e694d28588665595ebf4eb830464977309fbf208c9823e051129549150f49566"
         }
       }
     }
