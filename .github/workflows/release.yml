@@ -17,7 +17,7 @@ permissions:
   contents: write
 
 env:
-  BINARY_NAME: gs-nginx-module
+  BINARY_NAME: sgs-module
 
 jobs:
   build:
